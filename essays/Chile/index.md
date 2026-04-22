@@ -7,7 +7,7 @@ position: 1
 summary: Salaria Kea was the only Black American female to volunteer in the Spanish Civil War.
 ---
 
-# Salaria Kea in the Spanish Civil War
+# Chile's Revolution Within a Revolution
 
 Salaria Kea was born in Georgia, grew up in Akron, Ohio, and eventually moved to New York City for nursing school. 
 
