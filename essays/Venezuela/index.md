@@ -1,5 +1,5 @@
 ---
-title: "Anti-Fascist Biography 2"
+title: "Venezuela"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg

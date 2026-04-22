@@ -1,5 +1,5 @@
 ---
-title: "Salaria Kea"
+title: "Chile"
 layout: scrollstory
 header-image: images/salaria_kea.jpg
 thumbnail: images/salaria_kea.jpg
