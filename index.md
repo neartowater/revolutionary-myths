@@ -1,5 +1,5 @@
 ---
-title: "Women, Europe, and Antifascism in the Early 20th Century"
+title: Revolutionary Myths
 layout: base
 date: 2025-10-21
 header-image: "/assets/images/antifascist-march-mural-hh-2.jpeg"
@@ -8,7 +8,7 @@ header-subtitle: Biographies
 header-position: 35% center
 ---
 
-# Women, Europe, and Antifascism in the Early 20th Century
+# Revolutionary Myths
 
 This website explores the biographies and histories of prominent European and American women antifascist activists from the early 20th century. 
 
