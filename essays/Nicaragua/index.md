@@ -1,5 +1,5 @@
 ---
-title: "Nicaragua"
+title: "Haiti"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
