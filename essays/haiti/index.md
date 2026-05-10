@@ -1,5 +1,5 @@
 ---
-title: "Venezuela"
+title: "Nicaragua"
 layout: scrollstory
 header-image: images/saenz_market_1977.jpg
 thumbnail: images/saenz_native_american_life.jpg
