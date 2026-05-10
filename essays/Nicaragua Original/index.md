@@ -4,7 +4,7 @@ layout: scrollstory
 header-image: images/saenz_market_1977.jpg
 thumbnail: images/saenz_native_american_life.jpg
 position: 3
-summary: A third biography of an anti-fascist woman in the early 20th century.
+summary: Saenz
 ---
 
 # Biography 3

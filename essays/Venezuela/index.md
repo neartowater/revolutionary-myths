@@ -4,7 +4,7 @@ layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
 position: 2
-summary: Another biography of an anti-fascist woman in the early 20th century.
+summary: Bolivarian Revolution
 ---
 
 # Biography 2

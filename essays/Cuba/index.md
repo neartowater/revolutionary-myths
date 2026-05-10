@@ -4,7 +4,7 @@ layout: scrollstory
 header-image: images/korda-portraitcheguevara.jpg
 thumbnail: images/fitzpatrick_che_mural.jpg
 position: 1
-summary: A biography of an anti-fascist woman in the early 20th century.
+summary: Che
 ---
 
 # Biography 1
