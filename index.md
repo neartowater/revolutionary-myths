@@ -2,7 +2,7 @@
 title: Revolutionary Myths
 layout: base
 date: 2025-10-21
-header-image: "/assets/images/antifascist-march-mural-hh-2.jpeg"
+header-image: "/assets/images/history_of_mexico.jpg"
 header-title: The Artwork of Revolutionary Myths of Latin America During the 20th Century 
 header-subtitle: Biographies
 header-position: 35% center
