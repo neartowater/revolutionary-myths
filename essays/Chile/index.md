@@ -1,8 +1,8 @@
 ---
 title: "Chile"
 layout: scrollstory
-header-image: images/chile_coup.Jpg.webp
-thumbnail: breaking_chains.jpg
+header-image: images/chile_coup.webp
+thumbnail: images/breaking_chains.jpg
 position: 1
 summary: Salaria Kea was the only Black American female to volunteer in the Spanish Civil War.
 ---
