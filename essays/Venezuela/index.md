@@ -1,8 +1,8 @@
 ---
 title: "Venezuela"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/the_maroon.jpg.webp
+thumbnail: images/bolivar.jpg.webp
 position: 2
 summary: Bolivarian Revolution
 ---
