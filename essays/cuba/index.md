@@ -2,7 +2,7 @@
 title: "Mexico"
 layout: scrollstory
 header-image: images/siqueiros.jpg
-thumbnail: images/figure_1.jpg
+thumbnail: images/siqueiros.jpg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
