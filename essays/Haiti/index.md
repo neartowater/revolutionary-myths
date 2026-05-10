@@ -1,15 +1,15 @@
 ---
-title: "Chile"
+title: "Haiti"
 layout: scrollstory
-header-image: images/chile_coup.jpg.webp
-thumbnail: images/breaking_chains.jpg
+header-image: images/meiselas_molotov_man_1991.jpg
+thumbnail: images/saenz_market_1977.jpg
 position: 1
-summary: Salaria Kea was the only Black American female to volunteer in the Spanish Civil War.
+summary: Revolutionary Latin American Myths
 ---
 
-# Chile's Revolution Within a Revolution
+# Biography 1
 
-Salaria Kea was born in Georgia, grew up in Akron, Ohio, and eventually moved to New York City for nursing school. 
+Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
 
 The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
 
@@ -22,7 +22,7 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/american-ambulance.jpg"
+  image-path="images/figure_1.jpg"
   image-position="left"
   image-width="48%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
@@ -54,7 +54,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/american_ambulance.jpg"
+  image-path="images/carousel_1.jpg"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
