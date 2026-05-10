@@ -1,8 +1,8 @@
 ---
 title: "Haiti"
 layout: scrollstory
-header-image: images/meiselas_molotov_man_1991.jpg
-thumbnail: images/saenz_market_1977.jpg
+header-image: images/toussaint_louverture.jpg
+thumbnail: images/jean_jacques_dessalines.jpg
 position: 1
 summary: Revolutionary Latin American Myths
 ---
