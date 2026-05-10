@@ -2,7 +2,7 @@
 title: "Nicaragua"
 layout: scrollstory
 header-image: images/saenz_market_1977.jpg
-thumbnail: images/saenz_native_american_life.jpg
+thumbnail: images/saenz-native_american_1976.jpg
 position: 3
 summary: Saenz
 ---
