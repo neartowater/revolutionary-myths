@@ -1,8 +1,8 @@
 ---
 title: "Haiti"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/meiselas_molotov_man_1991.jpg
+thumbnail: images/saenz_market_1977.jpg
 position: 1
 summary: Revolutionary Latin American Myths
 ---
