@@ -4,16 +4,21 @@ layout: scrollstory
 header-image: images/korda_che.jpg
 thumbnail: images/fitzpatrick_che_mural.jpg
 position: 1
-summary: Che
+summary: On January 1, 1959, the Fulgencia Batista regime was deposed by Cuban revolutionaries led by Fidel Castro and Ernesto Ché Guevara
+
 ---
 
-# Biography 1
+# History
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+On January 1, 1959 the government of Fulgencio Batista was overthrown by a popular uprising of the people led by Fidel Castro and Ernesto "Che" Guevara. Castro and Guevara are credited with leading the most successfull and furthest reaching revolution of the 20th century. 
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+In July of 1953 Castro led an uprising attacking the Moncado barracks hoping it would spark mass uprisings nationwide. His plan failed, however, and ended with over 60 of the 160 rebels involved in the attack killed by Batista's forces. Castro and his brother Raul were arrested and given lengthy prison sentences. In 1955, Castro was released and went into exile in Mexico where he met Che. 
 
-## Wild Origins and Sacred Uses
+By December of 1956, Castro was back in Cuba, although his reception did not go as planned. Castro was welcomed back by Batista's forces and made a hasty retreat to the Sierra Madres after coming under heavy fire the Cuban military. Of the 80 plus rebel fighters that sailed to Cuba with Castro, 18 survived the landing to retreat to the mountains.
+
+Castro's movement gained the popular support of the locals and by 1958 the tides had turned. In December of that the year, Castro's rebels won a decisive victory over Batista at the Battle of Santa Clara. By January 1, 1959 Batista was fleeing to exile in Miami while the rebels celebrated a hard fought victory. 
+
+## Revolutionary Myth
 
 {% capture chile_origins_text %}
 Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
@@ -22,14 +27,14 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/castro_arrest.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Castro's arrest after the failed Moncado Barracks uprising on July 26, 1953. Castro would later rename his movement Movimiento 26 de Julio or 26th of July Movement."
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"Condemn me-it does not matter. History will absolve me.\"" %}
 
 When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
