@@ -21,10 +21,9 @@ Castro's movement gained the popular support of the locals and by 1958 the tides
 ## Revolutionary Myth
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+Fidel Castro invoked the image of Jose Martí who led the Cuban struggle for freedom against Spain. Castro's revolution early on did not invoke images of a mythic past but it did leave in its wake plenty of imagery for other Latin American revolutions such as the Nicaraguan and the Chiléan revolution of the 1970s. 
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
-{% endcapture %}
+Che Guevara's image became synonymous with revolution worldwide, specifically armed revolution against oppressive states. Che's likeness from the famous Alberto Korda photo at the forefront of this page, embodied the "New Socialist Man" whose moral clarity was more important than material wealth. By creating these mythical figures the revolution sought to extend its influence and preserve it into the future. The revolutionary myth becomes the revolutionary ontology.
 
 {% include images/figure-wrap.html
   image-path="images/castro_arrest.jpg"
@@ -36,7 +35,7 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 
 {% include typography/pullquote.html text="\"Condemn me-it does not matter. History will absolve me.\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+When on trial, and in response to reporters, Castro responded to a reporter with this quote which became part of the Cuban revolutionary culture, adding to its mythic allure.  
 
 
 ## The Global Circulation
