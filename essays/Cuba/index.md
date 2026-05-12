@@ -1,7 +1,7 @@
 ---
 title: "Cuba"
 layout: scrollstory
-header-image: images/korda-portraitcheguevara.jpg
+header-image: images/korda_che.jpg
 thumbnail: images/fitzpatrick_che_mural.jpg
 position: 1
 summary: Che
