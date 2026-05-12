@@ -10,15 +10,11 @@ header-position: 35% center
 
 # Revolutionary Myths
 
-This website explores the biographies and histories of prominent European and American women antifascist activists from the early 20th century. 
+Since the onset of European colonization of the western hemisphere began in 1492, there have been a number of resistance movements that have propagated throughout Latin America protesting inhumane treatment, tyrannical rule, and unequal systems of hierarchy. There is no typology or official standard for qualifying a resistance movement as a revolution, however, movements that remove leaders from power and replace them with formerly oppressed people is a characteristic of a revolution. Some revolutions, as is the case with Haiti, result in a complete inversion of the hierarchy. In Haiti's case, slaves became free overnight while the ruling elites were stripped of all their power and posesssions. While in Mexico, the revolution resulted in the overthrow of Porfirio Diaz but control of the goverment remained in the hands of the elites, rather than the people. Despite their outcomes, the consistent factor with revolutionary movements is the myths that fuel their beginnings. Revolutinary myths evoke strong imagery that appeals to the intuitive and emotional nature of its audience. These images are often abstract and irrational because they resonate with the hopes, apirations, and motivations of a country's citizenry, they need to convey a legacy and a future that words cannot describe.    
 
-This project will introduce readers to historical antifascism (1914-1945) by emphasizing the role of European and American women’s actions, writings, organizing, and participation within the transnational antifascism movement of the interwar period.
+The interactive modules explore different Latin American countries and the art that conceptualized their revolution: Haiti, Mexico, Cuba, Chilé, Nicaragua, and Venezuela.  
 
-## Information about how to use the templates and examples
 
-To get a sense of what a finished project can look like, this template includes three sample essays on Southwest food history, generated with AI as stand-ins for real student work. Browse them to see how essays can use images, pull quotes, and scroll-driven backgrounds. Then start replacing them with your own material.
-
-The card grid below links to the sample essays. The info on these cards come from the essay pages themselves. As students publish their essaysm, these will showcase students' work as the project develops.
 
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'essays/'" | where_exp: "p", "p.path != 'essays/index.md'" %}
