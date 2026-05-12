@@ -25,6 +25,8 @@ Fidel Castro invoked the image of Jose Martí who led the Cuban struggle for fre
 
 Che Guevara's image became synonymous with revolution worldwide, specifically armed revolution against oppressive states. Che's likeness from the famous Alberto Korda photo at the forefront of this page, embodied the "New Socialist Man" whose moral clarity was more important than material wealth. By creating these mythical figures the revolution sought to extend its influence and preserve it into the future. The revolutionary myth becomes the revolutionary ontology.
 
+{% endcapture %}
+
 {% include images/figure-wrap.html
   image-path="images/castro_arrest.jpg"
   image-position="left"
