@@ -13,16 +13,16 @@ The revolution was the result of decades of tensions mounting between Mexico’s
 
 After decades of rule by the elites, the campesinos, middle class and professional workers began calling for reform of their government. Led by Francisco Madero, Emiliano Zapata, and Pancho Villa, they began embracing a new national identity and advocating against foreign control of mining companies and exploitation of the people and the land. The ensuing violence resulted in Porfirio Díaz vacating his seat of power and retiring to Europe. The next decade, Mexico would erupt into violence changing leadership multiple times. In 1917, under the leadership of Venustiano Carranza, Mexico adopted a new Constituttion. The fighting would continue unabated until the mid-1930s when Lazaro Cárdenas's administration brought stability and realized some of the agrarian reforms put forward by Emiliano Zapata. 
 
-## Wild Origins and Sacred Uses
+## The Agrarian Myth
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+Mexico's revolutionary myth is rooted in its agrarian and Indigenous past. 
 
 The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/boyle_heights.jpg"
   image-position="left"
   image-width="48%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
