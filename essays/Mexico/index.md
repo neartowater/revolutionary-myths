@@ -29,7 +29,7 @@ Mexico's revolutionary myth is rooted in its agrarian and Indigenous past. Ideal
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"Madero has unleashed the tiger; lets see if he can tame it.\"" Porfirio Diaz %}
+{% include typography/pullquote.html text="\"Madero has unleashed the tiger; lets see if he can tame it.\"" %}
 
 Díaz's words would be prophetic. Madero would prove insufficient to the task and was assassinated in 1913. In a twist of fate, out of all of Mexico's leaders, Díaz was the only one to live out his retirement and die in peace. 
 
